@@ -25,17 +25,12 @@ Para ejecutar este proyecto en tu máquina local, sigue estos sencillos pasos:
 
 1.  **Clona el repositorio:**
     ```sh
-    git clone <URL-de-tu-repositorio>
+    gh repo clone dawonatom/encuestapy
     ```
-
-2.  **Navega al directorio del proyecto:**
+    
+2.  **Ejecuta el script de Python:**
     ```sh
-    cd <nombre-del-directorio>
-    ```
-
-3.  **Ejecuta el script de Python:**
-    ```sh
-    python proyecto_encuesta.py
+    python main.py
     ```
 
 ## Uso del Programa
